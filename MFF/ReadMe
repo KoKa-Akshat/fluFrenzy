@@ -1,0 +1,14 @@
+
+
+Welcome to our ProjectFile !! Please read this.
+
+There are two folders inside MFF.zip:
+
+1. Image Files folder has all the image files required to run the program.
+2. Code Files folder has the following code files:
+                    A. MFF_Flu_Frenzy.py : This is our program file, please run this
+                    B. test_filee.py : This is our test file.
+                    C. trial:Error.py : This is our trial and error workspace.
+
+
+Before running MFF_Flu_Frenzy.py, please put all the image files in the same folder as the program file. Thank you. 
