@@ -1,14 +1,29 @@
+# Flu Frenzy — Agent-Based Disease Spread Simulation
 
+## Overview
+Flu Frenzy is an agent-based simulation that models infectious disease spread under different parameters (e.g., transmission rate, movement, recovery time). The project visualizes outcomes over time and allows quick scenario testing.
 
-Welcome to our ProjectFile !! Please read this.
+## Features
+- Interactive simulation / visualization
+- Configurable parameters (infection, recovery, movement)
+- Reproducible runs for comparison across scenarios
 
-There are two folders inside MFF.zip:
+## How to Run
+1. Clone or download this repo.
+2. Ensure Python is installed (Python 3.x).
+3. Install dependencies (if any):
+   - `pip install -r requirements.txt`  (only if you create this file)
+4. Run:
+   - `python MFF_Flu_Frenzy.py`
 
-1. Image Files folder has all the image files required to run the program.
-2. Code Files folder has the following code files:
-                    A. MFF_Flu_Frenzy.py : This is our program file, please run this
-                    B. test_filee.py : This is our test file.
-                    C. trial:Error.py : This is our trial and error workspace.
+## Assets
+This project uses image assets for the UI/visualization. Place the contents of `/assets` in the same directory as `MFF_Flu_Frenzy.py` (or keep the repo structure and update file paths in code).
 
+## Repository Structure
+- `MFF_Flu_Frenzy.py` — main program
+- `tests/` — test files (optional)
+- `assets/` — image assets
+- `README.md` — project overview and instructions
 
-Before running MFF_Flu_Frenzy.py, please put all the image files in the same folder as the program file. Thank you. 
+## Sample Output
+Include a screenshot or GIF here of the simulation running.
